@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <div className={homeCSS.mainPageLayout}>
       <div className={homeCSS.pageNav}>NAVBAR</div>
-      <div className={homeCSS.pageContent}>Content</div>
+      <div className={homeCSS.pageContent}>Hello im a content</div>
     </div>
   );
 }
